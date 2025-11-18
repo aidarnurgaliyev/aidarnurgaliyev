@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Aidar Nurgaliyev👋
 
-<!--
-**aidarnurgaliyev/aidarnurgaliyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Computer Science Major @ AUBG
+Currently learning: **Python**, **C++** and **Telegram bot development**.
 
-Here are some ideas to get you started:
+### 📋 Interests:
+- Backend development  
+- Automation  
+- Small practical projects  
+- Telegram bots (aiogram)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 What I'm currently working on:
+- Building my first real projects
+- Improving fundamentals  
+- Growing my GitHub portfolio
